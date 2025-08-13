@@ -4,14 +4,14 @@ Apps Script for melipayamak's web services
 <div dir='rtl'>
 
 ### معرفی وب سرویس ملی پیامک
-<p align="center">
+<p>
 ملی پیامک یک وب سرویس کامل برای ارسال و دریافت پیامک و پیامک صوتی و مدیریت کامل خدمات دیگر است که براحتی میتوانید از آن استفاده کنید.
 </p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./media/3x-ui-dark.png">
-    <img alt="3x-ui" src="./media/3x-ui-light.png">
-  </picture>
+<!--   <picture> -->
+<!--     <source media="(prefers-color-scheme: dark)" srcset="./media/3x-ui-dark.png"> -->
+<!--     <img alt="3x-ui" src="./media/3x-ui-light.png"> -->
+<!--   </picture> -->
 </p>
 
 <hr>
