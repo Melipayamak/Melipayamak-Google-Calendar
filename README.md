@@ -1,4 +1,4 @@
-# Google-Calendar
+# ارسال پیامک از گوگل کلندر ملی پیامک - Send SMS From Google Calendar
 Apps Script for melipayamak's web services
 
 <div dir='rtl'>
